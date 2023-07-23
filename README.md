@@ -6,7 +6,7 @@
 
 Welcome to my SOLAR SYSTEM 3D, it is a vast and complex astronomical system consisting of a star, the Sun, and all the celestial bodies that orbit around it due to its gravitational pull. These celestial bodies include planets and moons.
 
-In this version of solar system, i try to make a #d view of celestial bodies which are revolving around the Sun. It shows the basic view of milkyWay.
+In this version of solar system, i try to make a cloned view of celestial bodies which are revolving around the Sun. It shows the basic view of milkyWay.
 ## Screenshots
 
 - [Game Screenshot 1](https://github.com/Namanbansal06/Solar-System/blob/main/Assets/Planet%20Icons/Sprites/Screen%20Shot%201.jpeg)
